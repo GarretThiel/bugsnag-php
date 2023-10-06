@@ -6,3 +6,4 @@ vendor
 .phpunit.result.cache
 decisions.yml
 phpstan.neon
+ 
